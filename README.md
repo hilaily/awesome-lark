@@ -11,7 +11,7 @@ A curated list of awesome Feishu/Lark APIs, libraries, and resources.
 
 ### SDK
 #### Go
-- [go-lark/lark(★115)](https://github.com/go-lark/lark): An easy-to-use SDK for Feishu and Lark Open Platform (Messaging API only)
+- [go-lark/lark(★116)](https://github.com/go-lark/lark): An easy-to-use SDK for Feishu and Lark Open Platform (Messaging API only)
 - [chyroc/lark(★236)](https://github.com/chyroc/lark): Feishu/Lark Open API Go SDK, Support ALL Open API and Event Callback.
 - [larksuite/oapi-sdk-go(★119)](https://github.com/larksuite/oapi-sdk-go): larksuite oapi sdk by golang
 - [fastwego/feishu(★145)](https://github.com/fastwego/feishu): [飞书] A fast feishu development sdk written in Golang
@@ -19,7 +19,7 @@ A curated list of awesome Feishu/Lark APIs, libraries, and resources.
 - [go-lark/docs(★1)](https://github.com/go-lark/docs): 
 
 #### Java
-- [larksuite/oapi-sdk-java(★61)](https://github.com/larksuite/oapi-sdk-java): Larksuite official Java SDK
+- [larksuite/oapi-sdk-java(★63)](https://github.com/larksuite/oapi-sdk-java): Larksuite official Java SDK
 
 #### JavaScript
 - [dizys/lark-js-sdk(★5)](https://github.com/dizys/lark-js-sdk): Third-party JavaScript Lark (Feishu, 飞书) SDK written in TypeScript
