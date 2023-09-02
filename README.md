@@ -30,7 +30,7 @@ A curated list of awesome Feishu/Lark APIs, libraries, and resources.
 
 #### Python
 - [larksuite/feishu(★71)](https://github.com/larksuite/feishu): [ 🚧 WIP ] feishu: Python SDK for Lark / Feishu
-- [larksuite/oapi-sdk-python(★136)](https://github.com/larksuite/oapi-sdk-python): Larksuite development interface SDK
+- [larksuite/oapi-sdk-python(★137)](https://github.com/larksuite/oapi-sdk-python): Larksuite development interface SDK
 
 #### Ruby
 - [seandong/lark-ruby-sdk(★18)](https://github.com/seandong/lark-ruby-sdk): Ruby SDKs for Lark(飞书) API https://open.feishu.cn/
