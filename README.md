@@ -26,7 +26,7 @@ A curated list of awesome Feishu/Lark APIs, libraries, and resources.
 - [larksuite/oapi-sdk-nodejs(★82)](https://github.com/larksuite/oapi-sdk-nodejs): DEPRECATED
 
 #### PHP
-- [guanguans/notify(★566)](https://github.com/guanguans/notify): Push notification sdk(Bark、Chanify、DingTalk、Discord、Email、FeiShu、Gitter、Google Chat、iGot、Logger、Mattermost、Microsoft Teams、Now Push、Ntfy、PushBack、Push、PushDeer、Pushover、PushPlus、QQ Channel Bot、Rocket Chat、ServerChan、Showdoc Push、Slack、Telegram、Webhook、WeWork、XiZhi、YiFengChuanHua、Zulip).
+- [guanguans/notify(★565)](https://github.com/guanguans/notify): Push notification sdk(Bark、Chanify、DingTalk、Discord、Email、FeiShu、Gitter、Google Chat、iGot、Logger、Mattermost、Microsoft Teams、Now Push、Ntfy、PushBack、Push、PushDeer、Pushover、PushPlus、QQ Channel Bot、Rocket Chat、ServerChan、Showdoc Push、Slack、Telegram、Webhook、WeWork、XiZhi、YiFengChuanHua、Zulip).
 
 #### Python
 - [larksuite/feishu(★72)](https://github.com/larksuite/feishu): [ 🚧 WIP ] feishu: Python SDK for Lark / Feishu
