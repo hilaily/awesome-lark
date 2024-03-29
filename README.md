@@ -19,7 +19,7 @@ A curated list of awesome Feishu/Lark APIs, libraries, and resources.
 - [go-lark/docs(★2)](https://github.com/go-lark/docs): 提供便捷的 Lark 云文档操作能力
 
 #### Java
-- [larksuite/oapi-sdk-java(★184)](https://github.com/larksuite/oapi-sdk-java): Larksuite official Java SDK
+- [larksuite/oapi-sdk-java(★185)](https://github.com/larksuite/oapi-sdk-java): Larksuite official Java SDK
 
 #### JavaScript
 - [dizys/lark-js-sdk(★5)](https://github.com/dizys/lark-js-sdk): Third-party JavaScript Lark (Feishu, 飞书) SDK written in TypeScript
