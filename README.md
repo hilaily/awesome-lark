@@ -39,7 +39,7 @@ A curated list of awesome Feishu/Lark APIs, libraries, and resources.
 
 ### Middlewares
 
-- [go-lark/lark-gin(★3)](https://github.com/go-lark/lark-gin): Gin Middleware for go-lark
+- [go-lark/lark-gin(★4)](https://github.com/go-lark/lark-gin): Gin Middleware for go-lark
 
 
 
