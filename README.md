@@ -19,7 +19,7 @@ A curated list of awesome Feishu/Lark APIs, libraries, and resources.
 - [go-lark/docs(★2)](https://github.com/go-lark/docs): 提供便捷的 Lark 云文档操作能力
 
 #### Java
-- [larksuite/oapi-sdk-java(★213)](https://github.com/larksuite/oapi-sdk-java): Larksuite official Java SDK
+- [larksuite/oapi-sdk-java(★215)](https://github.com/larksuite/oapi-sdk-java): Larksuite official Java SDK
 
 #### JavaScript
 - [dizys/lark-js-sdk(★5)](https://github.com/dizys/lark-js-sdk): Third-party JavaScript Lark (Feishu, 飞书) SDK written in TypeScript
@@ -29,8 +29,8 @@ A curated list of awesome Feishu/Lark APIs, libraries, and resources.
 - [guanguans/notify(★629)](https://github.com/guanguans/notify): Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、Zulip).
 
 #### Python
-- [larksuite/feishu(★78)](https://github.com/larksuite/feishu): [ 🚧 WIP ] feishu: Python SDK for Lark / Feishu
-- [larksuite/oapi-sdk-python(★293)](https://github.com/larksuite/oapi-sdk-python): Larksuite development interface SDK
+- [larksuite/feishu(★79)](https://github.com/larksuite/feishu): [ 🚧 WIP ] feishu: Python SDK for Lark / Feishu
+- [larksuite/oapi-sdk-python(★294)](https://github.com/larksuite/oapi-sdk-python): Larksuite development interface SDK
 
 #### Ruby
 - [seandong/lark-ruby-sdk(★21)](https://github.com/seandong/lark-ruby-sdk): Ruby SDKs for Lark(飞书) API https://open.feishu.cn/
